@@ -204,7 +204,7 @@ rm -rf /mnt/parscratch/users/USERNAME/tutorial-cluster
 And remove the environment:
 
 ```bash
-conda env remove --name tutorial-cluster
+conda env remove -n tutorial-cluster
 ```
 
 ## Appendix 2: Troubleshooting batch jobs
